@@ -1,0 +1,15 @@
+Package: ufokntheme
+Title: UF-OKN
+Version: 0.0.0.9000
+Authors@R: 
+    person("Pat", "Johnson", , "patjohns1216@gmail.com", role = c("aut", "cre"))
+Description: General theming for UF-KON.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Suggests: 
+    bslib,
+    shiny,
+    shinycustomloader,
+    usethis

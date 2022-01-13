@@ -1,0 +1,10 @@
+^renv$
+^renv\.lock$
+^ufokntheme\.Rproj$
+^\.Rproj\.user$
+^data-raw$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^README\.Rmd$
+^LICENSE\.md$

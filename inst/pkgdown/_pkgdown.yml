@@ -1,0 +1,15 @@
+template:
+  includes:
+    before_title: '<a href="https://ufokn.com"><img src="https://ufokn.com/images/logo.svg" id="hexlogo" alt="UF-OKN"></a>'
+  bootstrap: 5
+  bslib:
+    base_font: {google: "Work Sans"}
+    code_font: {google: "Source Code Pro"}
+    font_scale: 1.2
+    headings-color: "#0C284D"
+    spacer: "1.3rem"
+    primary: "#0C284D"
+    secondary: "#fff"
+    success: "#43a047"
+    info: "#4527a0"
+    danger: "#e64a19"
